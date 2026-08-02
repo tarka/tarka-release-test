@@ -47,7 +47,7 @@ jobs:
       - uses: Swatinem/rust-cache@v2
       - uses: taiki-e/upload-rust-binary-action@v1
         with:
-          bin: vicarian
+          bin: tarka-release-test
           target: ${{ matrix.target }}
           token: ${{ secrets.GITHUB_TOKEN }}
 
