@@ -1,0 +1,12 @@
+[package]
+name = "tarka-release-test"
+description = "A dummy project for release automation testing"
+version = "0.1.0"
+edition = "2024"
+authors = ["Steve Smith <tarkasteve@gmail.com>"]
+homepage = "https://github.com/tarka/tarka-release-test"
+repository = "https://github.com/tarka/tarka-release-test"
+readme = "README.md"
+license = "Apache-2.0"
+
+[dependencies]
