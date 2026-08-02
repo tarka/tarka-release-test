@@ -227,7 +227,7 @@ dependencies = [
 
 [[package]]
 name = "tarka-release-test"
-version = "0.1.1"
+version = "0.1.2"
 dependencies = [
  "assert_cmd",
  "predicates 2.1.5",
